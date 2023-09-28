@@ -1,6 +1,6 @@
 {
   "name": "@jabatronic/simple-cli-boilerplate",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple cli package",
   "main": "bin/index.js",
   "bin": {
