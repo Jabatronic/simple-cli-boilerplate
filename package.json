@@ -4,7 +4,7 @@
   "description": "A simple cli package",
   "main": "bin/index.js",
   "bin": {
-    "simple-cli-boilerplate": "bin/index.js"
+    "simple-cli": "bin/index.js"
   },
   "scripts": {
     "build": "tsc --build --verbose",
