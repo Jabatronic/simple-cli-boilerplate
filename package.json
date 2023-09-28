@@ -1,0 +1,21 @@
+{
+  "name": "@jabatronic/simple-cli-boilerplate",
+  "version": "0.0.1",
+  "description": "A simple cli package",
+  "main": "bin/index.js",
+  "bin": "bin/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "exit 0"
+  },
+  "keywords": [],
+  "author": "Jabatronic",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.7.1",
+    "typescript": "^5.2.2"
+  },
+  "publishConfig": {
+    "@jabatronic:registry": "https://npm.pkg.github.com"
+  }
+}
